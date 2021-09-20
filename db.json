@@ -1,4 +1,5 @@
-[
+{
+  "best-products": [
     {
       "id": 2,
       "kode": "A-388",
@@ -23,4 +24,95 @@
       "is_ready": true,
       "gambar": "Nasi-Pecel.jpg"
     }
-]
+  ],
+  "product": [
+    {
+      "id": 1,
+      "kode": "A-888",
+      "nama": "Mie goreng",
+      "harga": 5000,
+      "is_ready": true,
+      "gambar": "Mie-Goreng.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "A-388",
+      "nama": "Nasi goreng",
+      "harga": 5000,
+      "is_ready": true,
+      "gambar": "Nasi-Goreng.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "A-380",
+      "nama": "Nasi PEcel",
+      "harga": 5000,
+      "is_ready": true,
+      "gambar": "Nasi-Pecel.jpg"
+    },
+    {
+      "id": 4,
+      "kode": "A-290",
+      "nama": "Nasi Sapi",
+      "harga": 5000,
+      "is_ready": true,
+      "gambar": "Nasi-Pecel.jpg"
+    }
+  ],
+  "keranjangs": [],
+  "pesanans": [
+    {
+      "nama": "Lulung",
+      "noMeja": "12",
+      "keranjangs": [
+        {
+          "jumlah_pemesanan": "12",
+          "keterangan": "adaw",
+          "products": {
+            "id": 2,
+            "kode": "A-388",
+            "nama": "Nasi goreng",
+            "harga": 5000,
+            "is_ready": true,
+            "gambar": "Nasi-Goreng.jpg"
+          },
+          "id": 1
+        },
+        {
+          "jumlah_pemesanan": "43",
+          "keterangan": "wad",
+          "products": {
+            "id": 3,
+            "kode": "A-380",
+            "nama": "Nasi PEcel",
+            "harga": 5000,
+            "is_ready": true,
+            "gambar": "Nasi-Pecel.jpg"
+          },
+          "id": 2
+        }
+      ],
+      "id": 1
+    },
+    {
+      "nama": "alung",
+      "noMeja": "12",
+      "keranjangs": [
+        {
+          "jumlah_pemesanan": "12",
+          "keterangan": "epdas",
+          "products": {
+            "id": 2,
+            "kode": "A-388",
+            "nama": "Nasi goreng",
+            "harga": 5000,
+            "is_ready": true,
+            "gambar": "Nasi-Goreng.jpg"
+          },
+          "id": 1
+        }
+      ],
+      "id": 2
+    }
+  ]
+}
