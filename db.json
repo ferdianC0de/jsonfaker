@@ -239,54 +239,6 @@
       "harga": 5000,
       "is_ready": true,
       "gambar": "Nasi-Goreng.jpg"
-    },
-    {
-      "id": 3,
-      "kode": "A-380",
-      "nama": "Nasi PEcel",
-      "harga": 5000,
-      "is_ready": true,
-      "gambar": "Nasi-Pecel.jpg"
-    },
-    {
-      "id": 4,
-      "kode": "A-290",
-      "nama": "Nasi Sapi",
-      "harga": 5000,
-      "is_ready": true,
-      "gambar": "Nasi-Pecel.jpg"
-    },
-    {
-      "id": 1,
-      "kode": "A-888",
-      "nama": "Mie goreng",
-      "harga": 5000,
-      "is_ready": true,
-      "gambar": "Mie-Goreng.jpg"
-    },
-    {
-      "id": 2,
-      "kode": "A-388",
-      "nama": "Nasi goreng",
-      "harga": 5000,
-      "is_ready": true,
-      "gambar": "Nasi-Goreng.jpg"
-    },
-    {
-      "id": 3,
-      "kode": "A-380",
-      "nama": "Nasi PEcel",
-      "harga": 5000,
-      "is_ready": true,
-      "gambar": "Nasi-Pecel.jpg"
-    },
-    {
-      "id": 4,
-      "kode": "A-290",
-      "nama": "Nasi Sapi",
-      "harga": 5000,
-      "is_ready": true,
-      "gambar": "Nasi-Pecel.jpg"
     }
   ]
 }
